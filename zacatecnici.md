@@ -20,7 +20,7 @@ Cílem kurzu není vzdělat hotového programátora, ale rozvíjet logické
 myšlení, algoritmizaci a jiné vlastnosti, které se dětem budou hodit
 při studiu jakéhokoliv oboru.
 
-Kurz bude organizován a veden [Lukášem Doktorem](../../lectors/ldoktor.md)
+Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 1. hodina
 
@@ -542,4 +542,4 @@ ke schopnosti mluvit a myslet ve více jazycích. Proto věřím, že správným
 přístupem lze začít daleko dříve a sám využívám logické hry, roboty i
 počítač ke hře a vlastně i výuce svých dětí takřka od narození.
 
-<img align="right" src="../../media/robots_bottom.jpg">
+<img align="right" src="../media/robots_bottom.jpg">

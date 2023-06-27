@@ -29,7 +29,7 @@ Cílem kurzu není vzdělat hotového programátora, ale rozvíjet logické
 myšlení, algoritmizaci a jiné vlastnosti, které se dětem budou hodit
 při studiu jakéhokoliv oboru.
 
-Kurz bude organizován a veden [Lukášem Doktorem](../../lectors/ldoktor.md)
+Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 
 ## 1. hodina
@@ -291,12 +291,12 @@ Kurz bude organizován a veden [Lukášem Doktorem](../../lectors/ldoktor.md)
 </a>
 
 * Micro:bit
-  * Připojení a ovládání LED diod - had a semafor [zde](../microbit)
+  * Připojení a ovládání LED diod - had a semafor [zde](../assets/microbit)
 
 ## 15. hodina
 
 * Micro:bit
-  * Pokusili jsme se projít dokumentem k [výstupům](../microbit/vstupy-pulls.pdf), ale moc se nám to nepodařilo
+  * Pokusili jsme se projít dokumentem k [výstupům](../assets/microbit/vstupy-pulls.pdf), ale moc se nám to nepodařilo
   * Podařilo se nám pouze zapojení, připojení na seriovou konzoli a pozorování různých hodnot ``přečteného čísla z pinu`` (0V - 3.2V => 0 - 1024)
 
 ## 16. hodina
@@ -355,7 +355,7 @@ Kurz bude organizován a veden [Lukášem Doktorem](../../lectors/ldoktor.md)
 
 * Kartonový domeček
   * Programování servo-motorků k ovládání garážových vrat
-  * Programování dálkového ovládání k alarmu ([ukázkové programy zde](../microbit))
+  * Programování dálkového ovládání k alarmu ([ukázkové programy zde](../assets/microbit))
   * Analyzování problému neustálého alarmu - příliš vysoká citlivost senzoru, nastaveno
 
 ## 20. hodina
@@ -368,7 +368,7 @@ Kurz bude organizován a veden [Lukášem Doktorem](../../lectors/ldoktor.md)
   * Otestování funkčnosti
 * Autíčka na ovládání
   * Sestavení autíček <a href="https://github.com/KitronikLtd/pxt-kitronik-move-motor">Kitronik :move motor</a> (poznámka: na fotografii výše umístily děti micro:bit do slotu obráceně)
-  * Programování nejjednodušší varianty dálkového ovládání <a href="https://ldoktor.github.io/courses/microbit/#aut%C3%AD%C4%8Dko">ukázky zde</a>
+  * Programování nejjednodušší varianty dálkového ovládání <a href="https://ldoktor.github.io/assets/microbit/#aut%C3%AD%C4%8Dko">ukázky zde</a>
 
 ## 21. hodina
 
@@ -415,7 +415,7 @@ Kurz bude organizován a veden [Lukášem Doktorem](../../lectors/ldoktor.md)
 * Autíčka na ovládání
   * Teoreticky jsme si prošli co je nutné implementovat na straně autíčka, vysílačky a jaký bude protokol mezi nimi
   * V rámci skupin děti pracovali na jedné či druhé komponentě
-  * K inspiraci jsme použili <a href="https://ldoktor.github.io/courses/microbit/#aut%C3%AD%C4%8Dko">ukázky</a>
+  * K inspiraci jsme použili <a href="https://ldoktor.github.io/assets/microbit/#aut%C3%AD%C4%8Dko">ukázky</a>
 
 ## 23. hodina
 
@@ -423,7 +423,7 @@ Kurz bude organizován a veden [Lukášem Doktorem](../../lectors/ldoktor.md)
     <img align="right" src="pokrocili-2-08-auticko-small.jpg" style="height:85px">
 </a>
 
-* Autíčka na ovládání <a href="https://ldoktor.github.io/courses/microbit/#aut%C3%AD%C4%8Dko">nápověda</a>
+* Autíčka na ovládání <a href="https://ldoktor.github.io/assets/microbit/#aut%C3%AD%C4%8Dko">nápověda</a>
   * Pokračování v tvorbě, dnešní cíl je seznámit se se senzory (vzdálenost) a akčními členy (RGB diody, reproduktor)
   * Jedna skupina se pokoušela propojit starý Joystick jako ovládání
   * Příště budeme pokračovat
@@ -434,7 +434,7 @@ Kurz bude organizován a veden [Lukášem Doktorem](../../lectors/ldoktor.md)
     <img align="right" src="pokrocili-2-09-auticko-small.jpg" style="height:85px">
 </a>
 
-* Autíčka na ovládání <a href="https://ldoktor.github.io/courses/microbit/#aut%C3%AD%C4%8Dko">nápověda</a>
+* Autíčka na ovládání <a href="https://ldoktor.github.io/assets/microbit/#aut%C3%AD%C4%8Dko">nápověda</a>
   * Všem se zdárně podařilo dokončit základní ovládání, pročež se uskutečnil závod sestávající se z ukázky "tuningu", funkčnosti bezpečnostních mechanizmů i jízdy zručnosti
 
 ## 25. hodina
@@ -550,4 +550,4 @@ Kurz bude organizován a veden [Lukášem Doktorem](../../lectors/ldoktor.md)
   * <a href="https://www.stepmania.com/">StepMania</a>
   * Jelikož jde z pohledu počítače v podstatě o joystick, zkusili jsme i <a href="http://tuxracer.sourceforge.net/">Tux Racer</a>
 
-<img align="right" src="../../media/robots_bottom.jpg">
+<img align="right" src="../media/robots_bottom.jpg">
