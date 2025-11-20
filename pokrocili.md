@@ -34,12 +34,8 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 1. hodina
 
-<a href="pokrocili-1-01-code-org2.jpg">
-    <img align="right" src="pokrocili-1-01-code-org2-small.jpg" style="height:85px">
-</a>
-<a href="pokrocili-1-01-code-org.jpg">
-    <img align="right" src="pokrocili-1-01-code-org-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili-1-01-code-org2-small.jpg" data-full="pokrocili-1-01-code-org2.jpg" style="height:85px" class="obrazek">
+<img align="right" src="pokrocili-1-01-code-org-small.jpg" data-full="pokrocili-1-01-code-org.jpg" style="height:85px" class="obrazek">
 
 * [www.code.org](https://www.code.org)
   * speedrun - kurz B 2019
@@ -51,12 +47,8 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 2. hodina
 
-<a href="pokrocili-1-02-perspektiva2.jpg">
-    <img align="right" src="pokrocili-1-02-perspektiva2-small.jpg" style="height:85px">
-</a>
-<a href="pokrocili-1-02-perspektiva.jpg">
-    <img align="right" src="pokrocili-1-02-perspektiva-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili-1-02-perspektiva2-small.jpg" data-full="pokrocili-1-02-perspektiva2.jpg" style="height:85px" class="obrazek">
+<img align="right" src="pokrocili-1-02-perspektiva-small.jpg" data-full="pokrocili-1-02-perspektiva.jpg" style="height:85px" class="obrazek">
 
 * Seznámení s flashdiskem, připojení k systému, procházení souborů
 * Perspektiva, ISO pohled, pohled shora - rozdíly, co jak vypadá, náčrtky na tabuli
@@ -71,18 +63,10 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 3. hodina
 
-<a href="pokrocili-1-03-strom1.jpg">
-    <img align="right" src="pokrocili-1-03-strom1-small.jpg" style="height:85px">
-</a>
-<a href="pokrocili-1-03-strom2.jpg">
-    <img align="right" src="pokrocili-1-03-strom2-small.jpg" style="height:85px">
-</a>
-<a href="pokrocili-1-03-strom3.jpg">
-    <img align="right" src="pokrocili-1-03-strom3-small.jpg" style="height:85px">
-</a>
-<a href="pokrocili-1-03-strom4.jpg">
-    <img align="right" src="pokrocili-1-03-strom4-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili-1-03-strom1-small.jpg" data-full="pokrocili-1-03-strom1.jpg" style="height:85px" class="obrazek">
+<img align="right" src="pokrocili-1-03-strom2-small.jpg" data-full="pokrocili-1-03-strom2.jpg" style="height:85px" class="obrazek">
+<img align="right" src="pokrocili-1-03-strom3-small.jpg" data-full="pokrocili-1-03-strom3.jpg" style="height:85px" class="obrazek">
+<img align="right" src="pokrocili-1-03-strom4-small.jpg" data-full="pokrocili-1-03-strom4.jpg" style="height:85px" class="obrazek">
 
 * Krita
   * Open-source polo-profesionální kreslicí software ke stažení zdarma <a href="https://krita.org/en/download/krita-desktop/">zde</a>
@@ -94,18 +78,10 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 4. hodina
 
-<a href="pokrocili-1-04-bus-wheel.jpg">
-    <img align="right" src="pokrocili-1-04-bus-wheel-small.jpg" style="height:85px">
-</a>
-<a href="pokrocili-1-04-bus-invisible.jpg">
-    <img align="right" src="pokrocili-1-04-bus-invisible-small.jpg" style="height:85px">
-</a>
-<a href="pokrocili-1-04-bus-rocket.jpg">
-    <img align="right" src="pokrocili-1-04-bus-rocket-small.jpg" style="height:85px">
-</a>
-<a href="pokrocili-1-04-bus-all.jpg">
-    <img align="right" src="pokrocili-1-04-bus-all-small.jpg" style="width:120px">
-</a>
+<img align="right" src="pokrocili-1-04-bus-wheel-small.jpg" data-full="pokrocili-1-04-bus-wheel.jpg" style="height:85px" class="obrazek">
+<img align="right" src="pokrocili-1-04-bus-invisible-small.jpg" data-full="pokrocili-1-04-bus-invisible.jpg" style="height:85px" class="obrazek">
+<img align="right" src="pokrocili-1-04-bus-rocket-small.jpg" data-full="pokrocili-1-04-bus-rocket.jpg" style="height:85px" class="obrazek">
+<img align="right" src="pokrocili-1-04-bus-all-small.jpg" data-full="pokrocili-1-04-bus-all.jpg" style="width:120px" class="obrazek">
 
 * <a href="https://www.openttd.org/">OpenTTD</a>
   * Úprava českých grafik <a href="https://drive.google.com/drive/folders/1kb-IqbGQOF4nQj0s-E6xMc1hUdJ6efg-">CZTR_BUS_SET</a>
@@ -124,21 +100,11 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 5. hodina
 
-<a href="pokrocili-1-05-minibox.jpg">
-    <img align="right" src="pokrocili-1-05-minibox-small.jpg" style="height:85px">
-</a>
-<a href="pokrocili-1-05-sandwich4.jpg">
-    <img align="right" src="pokrocili-1-05-sandwich4-small.jpg" style="height:85px">
-</a>
-<a href="pokrocili-1-05-sandwich3.jpg">
-    <img align="right" src="pokrocili-1-05-sandwich3-small.jpg" style="height:85px">
-</a>
-<a href="pokrocili-1-05-sandwich2.jpg">
-    <img align="right" src="pokrocili-1-05-sandwich2-small.jpg" style="height:85px">
-</a>
-<a href="pokrocili-1-05-sandwich.jpg">
-    <img align="right" src="pokrocili-1-05-sandwich-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili-1-05-minibox-small.jpg" data-full="pokrocili-1-05-minibox.jpg" style="height:85px" class="obrazek">
+<img align="right" src="pokrocili-1-05-sandwich4-small.jpg" data-full="pokrocili-1-05-sandwich4.jpg" style="height:85px" class="obrazek">
+<img align="right" src="pokrocili-1-05-sandwich3-small.jpg" data-full="pokrocili-1-05-sandwich3.jpg" style="height:85px" class="obrazek">
+<img align="right" src="pokrocili-1-05-sandwich2-small.jpg" data-full="pokrocili-1-05-sandwich2.jpg" style="height:85px" class="obrazek">
+<img align="right" src="pokrocili-1-05-sandwich-small.jpg" data-full="pokrocili-1-05-sandwich.jpg" style="height:85px" class="obrazek">
 
 * Programování na papíře
   * Naprogramuj robota "Šéfkuchař 3000" aby ti připravil sandwich
@@ -148,18 +114,10 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 6. hodina
 
-<a href="pokrocili-1-06-microbit.jpg">
-    <img align="right" src="pokrocili-1-06-microbit-small.jpg" style="height:85px">
-</a>
-<a href="pokrocili-1-06-lfs3.jpg">
-    <img align="right" src="pokrocili-1-06-lfs3-small.jpg" style="height:85px">
-</a>
-<a href="pokrocili-1-06-lfs2.jpg">
-    <img align="right" src="pokrocili-1-06-lfs2-small.jpg" style="height:85px">
-</a>
-<a href="pokrocili-1-06-lfs1.jpg">
-    <img align="right" src="pokrocili-1-06-lfs1-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili-1-06-microbit-small.jpg" data-full="pokrocili-1-06-microbit.jpg" style="height:85px" class="obrazek">
+<img align="right" src="pokrocili-1-06-lfs3-small.jpg" data-full="pokrocili-1-06-lfs3.jpg" style="height:85px" class="obrazek">
+<img align="right" src="pokrocili-1-06-lfs2-small.jpg" data-full="pokrocili-1-06-lfs2.jpg" style="height:85px" class="obrazek">
+<img align="right" src="pokrocili-1-06-lfs1-small.jpg" data-full="pokrocili-1-06-lfs1.jpg" style="height:85px" class="obrazek">
 
 * <a href="https://www.lfs.net/downloads">Live For Speed</a>
   * Simulátor závodních aut
@@ -175,12 +133,8 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 7. hodina
 
-<a href="pokrocili-1-07-boffin2.jpg">
-    <img align="right" src="pokrocili-1-07-boffin2-small.jpg" style="height:85px">
-</a>
-<a href="pokrocili-1-07-boffin.jpg">
-    <img align="right" src="pokrocili-1-07-boffin-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili-1-07-boffin2-small.jpg" data-full="pokrocili-1-07-boffin2.jpg" style="height:85px" class="obrazek">
+<img align="right" src="pokrocili-1-07-boffin-small.jpg" data-full="pokrocili-1-07-boffin.jpg" style="height:85px" class="obrazek">
 
 * Stavebnice Boffin
   * Úvod do elektroniky <a href="https://www.youtube.com/watch?v=mc979OhitAg">pěkné video zde</a>
@@ -189,12 +143,8 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 8. hodina
 
-<a href="pokrocili-1-08-boffin2.jpg">
-    <img align="right" src="pokrocili-1-08-boffin2-small.jpg" style="height:85px">
-</a>
-<a href="pokrocili-1-08-boffin.jpg">
-    <img align="right" src="pokrocili-1-08-boffin-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili-1-08-boffin2-small.jpg" data-full="pokrocili-1-08-boffin2.jpg" style="height:85px" class="obrazek">
+<img align="right" src="pokrocili-1-08-boffin-small.jpg" data-full="pokrocili-1-08-boffin.jpg" style="height:85px" class="obrazek">
 
 * Stavebnice Boffin
   * Vzhledem ke změně osazenstva opakování minulé hodiny
@@ -203,15 +153,9 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 9. hodina
 
-<a href="pokrocili-1-09-tesla3.jpg">
-    <img align="right" src="pokrocili-1-09-tesla3-small.jpg" style="height:85px">
-</a>
-<a href="pokrocili-1-09-tesla2.jpg">
-    <img align="right" src="pokrocili-1-09-tesla2-small.jpg" style="height:85px">
-</a>
-<a href="pokrocili-1-09-tesla.jpg">
-    <img align="right" src="pokrocili-1-09-tesla-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili-1-09-tesla3-small.jpg" data-full="pokrocili-1-09-tesla3.jpg" style="height:85px" class="obrazek">
+<img align="right" src="pokrocili-1-09-tesla2-small.jpg" data-full="pokrocili-1-09-tesla2.jpg" style="height:85px" class="obrazek">
+<img align="right" src="pokrocili-1-09-tesla-small.jpg" data-full="pokrocili-1-09-tesla.jpg" style="height:85px" class="obrazek">
 
 * Lehký úvod do elektroniky
   * Vysvětlení pojmu "napětí" <a href="https://www.youtube.com/watch?v=w82aSjLuD_8">pěkné video zde</a>
@@ -224,12 +168,8 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 10. hodina
 
-<a href="pokrocili-1-10-mikulas.jpg">
-    <img align="right" src="pokrocili-1-10-mikulas-small.jpg" style="height:85px">
-</a>
-<a href="pokrocili-1-10-boffin.jpg">
-    <img align="right" src="pokrocili-1-10-boffin-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili-1-10-mikulas-small.jpg" data-full="pokrocili-1-10-mikulas.jpg" style="height:85px" class="obrazek">
+<img align="right" src="pokrocili-1-10-boffin-small.jpg" data-full="pokrocili-1-10-boffin.jpg" style="height:85px" class="obrazek">
 
 * Mikuláš
   * Začátečníci připravovali a programovali Mikuláše, anděla a čerty, 50% pokročilých si to též chtělo vyzkoušet
@@ -241,12 +181,8 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 11. hodina
 
-<a href="pokrocili-1-11-rle2.jpg">
-    <img align="right" src="pokrocili-1-11-rle2-small.jpg" style="height:85px">
-</a>
-<a href="pokrocili-1-11-rle.jpg">
-    <img align="right" src="pokrocili-1-11-rle-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili-1-11-rle2-small.jpg" data-full="pokrocili-1-11-rle2.jpg" style="height:85px" class="obrazek">
+<img align="right" src="pokrocili-1-11-rle-small.jpg" data-full="pokrocili-1-11-rle.jpg" style="height:85px" class="obrazek">
 
 * Boffin
   * Stavba AM rádia a AM vysílače - model z minulé hodiny byl moc potichý, využili jsme projekt 623, který je hlasitější
@@ -259,9 +195,7 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 12. hodina
 
-<a href="pokrocili-1-12-microbit.jpg">
-    <img align="right" src="pokrocili-1-12-microbit-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili-1-12-microbit-small.jpg" data-full="pokrocili-1-12-microbit.jpg" style="height:85px" class="obrazek">
 
 * Micro:bit
   * Propomenutí prostředí <a href="https://makecode.microbit.org/#">makecode</a>
@@ -270,12 +204,8 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 13. hodina
 
-<a href="pokrocili-1-13-microbit-oscilloscope.jpg">
-    <img align="right" src="pokrocili-1-13-microbit-oscilloscope-small.jpg" style="height:85px">
-</a>
-<a href="pokrocili-1-13-microbit.jpg">
-    <img align="right" src="pokrocili-1-13-microbit-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili-1-13-microbit-oscilloscope-small.jpg" data-full="pokrocili-1-13-microbit-oscilloscope.jpg" style="height:85px" class="obrazek">
+<img align="right" src="pokrocili-1-13-microbit-small.jpg" data-full="pokrocili-1-13-microbit.jpg" style="height:85px" class="obrazek">
 
 * Micro:bit
   * Zápis logické hodnoty vs. zápis hodnoty do pinu
@@ -283,12 +213,8 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 14. hodina
 
-<a href="pokrocili-1-14-microbit2.jpg">
-    <img align="right" src="pokrocili-1-14-microbit2-small.jpg" style="height:85px">
-</a>
-<a href="pokrocili-1-14-microbit.jpg">
-    <img align="right" src="pokrocili-1-14-microbit-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili-1-14-microbit2-small.jpg" data-full="pokrocili-1-14-microbit2.jpg" style="height:85px" class="obrazek">
+<img align="right" src="pokrocili-1-14-microbit-small.jpg" data-full="pokrocili-1-14-microbit.jpg" style="height:85px" class="obrazek">
 
 * Micro:bit
   * Připojení a ovládání LED diod - had a semafor [zde](../assets/microbit)
@@ -301,12 +227,8 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 16. hodina
 
-<a href="pokrocili-2-01-sketchup.jpg">
-    <img align="right" src="pokrocili-2-01-sketchup-small.jpg" style="height:85px">
-</a>
-<a href="pokrocili-2-01-formule.jpg">
-    <img align="right" src="pokrocili-2-01-formule-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili-2-01-sketchup-small.jpg" data-full="pokrocili-2-01-sketchup.jpg" style="height:85px" class="obrazek">
+<img align="right" src="pokrocili-2-01-formule-small.jpg" data-full="pokrocili-2-01-formule.jpg" style="height:85px" class="obrazek">
 
 * Micro:bit
   * soutěž v ukázkové minimalistické závodní hry Formule1 <a href="https://makecode.microbit.org/_LMg1dRitUM9v">zde</a>
@@ -320,12 +242,8 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 17. hodina
 
-<a href="pokrocili-2-02-dum2.jpg">
-    <img align="right" src="pokrocili-2-02-dum2-small.jpg" style="height:85px">
-</a>
-<a href="pokrocili-2-02-dum.jpg">
-    <img align="right" src="pokrocili-2-02-dum-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili-2-02-dum2-small.jpg" data-full="pokrocili-2-02-dum2.jpg" style="height:85px" class="obrazek">
+<img align="right" src="pokrocili-2-02-dum-small.jpg" data-full="pokrocili-2-02-dum.jpg" style="height:85px" class="obrazek">
 
 * Kartonový domeček
   * Výroba domečku dle plánu ve SketchUpu
@@ -333,12 +251,8 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 18. hodina
 
-<a href="pokrocili-2-03-dum2.jpg">
-    <img align="right" src="pokrocili-2-03-dum2-small.jpg" style="height:85px">
-</a>
-<a href="pokrocili-2-03-dum.jpg">
-    <img align="right" src="pokrocili-2-03-dum-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili-2-03-dum2-small.jpg" data-full="pokrocili-2-03-dum2.jpg" style="height:85px" class="obrazek">
+<img align="right" src="pokrocili-2-03-dum-small.jpg" data-full="pokrocili-2-03-dum.jpg" style="height:85px" class="obrazek">
 
 * Kartonový domeček
   * Dodělání stavby
@@ -346,12 +260,8 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 19. hodina
 
-<a href="pokrocili-2-04-dum2.jpg">
-    <img align="right" src="pokrocili-2-04-dum2-small.jpg" style="height:85px">
-</a>
-<a href="pokrocili-2-04-dum.jpg">
-    <img align="right" src="pokrocili-2-04-dum-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili-2-04-dum2-small.jpg" data-full="pokrocili-2-04-dum2.jpg" style="height:85px" class="obrazek">
+<img align="right" src="pokrocili-2-04-dum-small.jpg" data-full="pokrocili-2-04-dum.jpg" style="height:85px" class="obrazek">
 
 * Kartonový domeček
   * Programování servo-motorků k ovládání garážových vrat
@@ -360,9 +270,7 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 20. hodina
 
-<a href="pokrocili-2-05-microbit-auticko.jpg">
-    <img align="right" src="pokrocili-2-05-microbit-auticko-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili-2-05-microbit-auticko-small.jpg" data-full="pokrocili-2-05-microbit-auticko.jpg" style="height:85px" class="obrazek">
 
 * Kartonový domeček
   * Otestování funkčnosti
@@ -372,12 +280,8 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 21. hodina
 
-<a href="pokrocili-2-06-trainsim.jpg">
-    <img align="right" src="pokrocili-2-06-trainsim-small.jpg" style="height:85px">
-</a>
-<a href="pokrocili-2-06-mario.jpg">
-    <img align="right" src="pokrocili-2-06-mario-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili-2-06-trainsim-small.jpg" data-full="pokrocili-2-06-trainsim.jpg" style="height:85px" class="obrazek">
+<img align="right" src="pokrocili-2-06-mario-small.jpg" data-full="pokrocili-2-06-mario.jpg" style="height:85px" class="obrazek">
 
 * Výuka psaní všemi deseti
   * Využili jsme abandonware <a href="https://archive.org/details/msdos_Mario_Teaches_Typing_1992">Mario Teaches Typing</a>
@@ -405,12 +309,8 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 22. hodina
 
-<a href="pokrocili-2-07-praxe.jpg">
-    <img align="right" src="pokrocili-2-07-praxe-small.jpg" style="height:85px">
-</a>
-<a href="pokrocili-2-07-teorie.jpg">
-    <img align="right" src="pokrocili-2-07-teorie-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili-2-07-praxe-small.jpg" data-full="pokrocili-2-07-praxe.jpg" style="height:85px" class="obrazek">
+<img align="right" src="pokrocili-2-07-teorie-small.jpg" data-full="pokrocili-2-07-teorie.jpg" style="height:85px" class="obrazek">
 
 * Autíčka na ovládání
   * Teoreticky jsme si prošli co je nutné implementovat na straně autíčka, vysílačky a jaký bude protokol mezi nimi
@@ -419,9 +319,7 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 23. hodina
 
-<a href="pokrocili-2-08-auticko.jpg">
-    <img align="right" src="pokrocili-2-08-auticko-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili-2-08-auticko-small.jpg" data-full="pokrocili-2-08-auticko.jpg" style="height:85px" class="obrazek">
 
 * Autíčka na ovládání <a href="https://ldoktor.github.io/assets/microbit/#aut%C3%AD%C4%8Dko">nápověda</a>
   * Pokračování v tvorbě, dnešní cíl je seznámit se se senzory (vzdálenost) a akčními členy (RGB diody, reproduktor)
@@ -430,21 +328,15 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 24. hodina
 
-<a href="pokrocili-2-09-auticko.jpg">
-    <img align="right" src="pokrocili-2-09-auticko-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili-2-09-auticko-small.jpg" data-full="pokrocili-2-09-auticko.jpg" style="height:85px" class="obrazek">
 
 * Autíčka na ovládání <a href="https://ldoktor.github.io/assets/microbit/#aut%C3%AD%C4%8Dko">nápověda</a>
   * Všem se zdárně podařilo dokončit základní ovládání, pročež se uskutečnil závod sestávající se z ukázky "tuningu", funkčnosti bezpečnostních mechanizmů i jízdy zručnosti
 
 ## 25. hodina
 
-<a href="pokrocili-2-10-alarm2.jpg">
-    <img align="right" src="pokrocili-2-10-alarm2-small.jpg" style="height:85px">
-</a>
-<a href="pokrocili-2-10-alarm.jpg">
-    <img align="right" src="pokrocili-2-10-alarm-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili-2-10-alarm2-small.jpg" data-full="pokrocili-2-10-alarm2.jpg" style="height:85px" class="obrazek">
+<img align="right" src="pokrocili-2-10-alarm-small.jpg" data-full="pokrocili-2-10-alarm.jpg" style="height:85px" class="obrazek">
 
 * Nastavování domácího alarmu
   * Ukázka levného alarmu
@@ -453,9 +345,7 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 26. hodina
 
-<a href="pokrocili-2-11-pc.jpg">
-    <img align="right" src="pokrocili-2-11-pc-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili-2-11-pc-small.jpg" data-full="pokrocili-2-11-pc.jpg" style="height:85px" class="obrazek">
 
 * Vnitřek počítače
   * Co je počítač, monitor, ...
@@ -466,9 +356,7 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 27. hodina
 
-<a href="pokrocili-2-12-stare-systemy.jpg">
-    <img align="right" src="pokrocili-2-12-stare-systemy-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili-2-12-stare-systemy-small.jpg" data-full="pokrocili-2-12-stare-systemy.jpg" style="height:85px" class="obrazek">
 
 * Operační systémy
   * Co je to operační systém
@@ -487,9 +375,7 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 28. hodina
 
-<a href="pokrocili-2-13-hrm.jpg">
-    <img align="right" src="pokrocili-2-13-hrm-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili-2-13-hrm-small.jpg" data-full="pokrocili-2-13-hrm.jpg" style="height:85px" class="obrazek">
 
 * [Human Resource Machine](https://tomorrowcorporation.com/humanresourcemachine)
   * Malinko jiný styl programování, blíže k Assembleru
@@ -497,12 +383,8 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 29. hodina
 
-<a href="pokrocili-2-14-lcd.jpg">
-    <img align="right" src="pokrocili-2-14-lcd-small.jpg" style="height:85px">
-</a>
-<a href="zacatecnici-2-14-processor3.jpg">
-    <img align="right" src="zacatecnici-2-14-processor3-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili-2-14-lcd-small.jpg" data-full="pokrocili-2-14-lcd.jpg" style="height:85px" class="obrazek">
+<img align="right" src="zacatecnici-2-14-processor3-small.jpg" data-full="zacatecnici-2-14-processor3.jpg" style="height:85px" class="obrazek">
 
 * Processor pod mikroskopem
   * Pro demonstraci zvětšení jsme využili lupu, vlasy a mravence
@@ -514,9 +396,7 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 30. hodina
 
-<a href="pokrocili-2-15-dvojkova-soustava.jpg">
-    <img align="right" src="pokrocili-2-15-dvojkova-soustava-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili-2-15-dvojkova-soustava-small.jpg" data-full="pokrocili-2-15-dvojkova-soustava.jpg" style="height:85px" class="obrazek">
 
 * Dvojkové vs. desítkové soustavy čísel
   * Nejprve jsme si ukázali rozdíly a důvody, proč je dvojková soustava pro elektroniku výhodnější
@@ -526,15 +406,9 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 31. hodina
 
-<a href="pokrocili-2-16-tuxracer.jpg">
-    <img align="right" src="pokrocili-2-16-tuxracer-small.jpg" style="height:85px">
-</a>
-<a href="pokrocili-2-16-stepmania.jpg">
-    <img align="right" src="pokrocili-2-16-stepmania-small.jpg" style="height:85px">
-</a>
-<a href="pokrocili-2-16-dvojkova-soustava.jpg">
-    <img align="right" src="pokrocili-2-16-dvojkova-soustava-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili-2-16-tuxracer-small.jpg" data-full="pokrocili-2-16-tuxracer.jpg" style="height:85px" class="obrazek">
+<img align="right" src="pokrocili-2-16-stepmania-small.jpg" data-full="pokrocili-2-16-stepmania.jpg" style="height:85px" class="obrazek">
+<img align="right" src="pokrocili-2-16-dvojkova-soustava-small.jpg" data-full="pokrocili-2-16-dvojkova-soustava.jpg" style="height:85px" class="obrazek">
 
 * Dvojkové vs. desítkové soustavy čísel
   * Počítadlo s 10 vs. 9 kuličkami
@@ -549,5 +423,14 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 * Taneční podložka
   * <a href="https://www.stepmania.com/">StepMania</a>
   * Jelikož jde z pohledu počítače v podstatě o joystick, zkusili jsme i <a href="http://tuxracer.sourceforge.net/">Tux Racer</a>
+
+<div id="overlay" class="overlay hidden">
+  <span id="prev" class="nav">&#9664;</span>
+  <img id="overlay-img" src="" alt="Obrázek">
+  <span id="next" class="nav">&#9654;</span>
+  <span id="close" class="close">&times;</span>
+</div>
+<link rel="stylesheet" href="/assets/gallery.css">
+<script src="/assets/gallery.js"></script>
 
 <img align="right" src="../media/robots_bottom.jpg">
